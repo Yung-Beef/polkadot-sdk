@@ -1,7 +1,7 @@
 # Voting Pallet
 
-- [`assembly::Config`](https://docs.rs/pallet-assembly/latest/pallet_assembly/trait.Config.html)
-- [`Call`](https://docs.rs/pallet-assembly/latest/pallet_assembly/enum.Call.html)
+- [`conviction_voting::Config`](https://paritytech.github.io/polkadot-sdk/master/pallet_conviction_voting/pallet/trait.Config.html)
+- [`Call`](https://paritytech.github.io/polkadot-sdk/master/pallet_conviction_voting/pallet/enum.Call.html)
 
 ## Overview
 
